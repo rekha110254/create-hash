@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "cipher-base": "^1.0.1",
-    "inherits": "https://github.com/rekha110254/create-hash.git",
+    "inherits": "git@github.com:rekha110254/inherits.git@2.0.3",
     "ripemd160": "^2.0.0",
     "sha.js": "^2.4.0"
   }
